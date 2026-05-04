@@ -26,6 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+William Eduardo Yalico Arango is a final-year Civil Engineering student at the University of Engineering and Technology (UTEC), Peru, and a Project Control Intern at COSAPI S.A., a leading construction company with over 65 years of experience in Peru. He is a recipient of the Beca 18 scholarship, awarded by the Peruvian government for academic excellence, and has participated in the GCI Global Program in Data Science and AI at the Matsuo-Iwasawa Lab, University of Tokyo.
+
+His interests focus on construction productivity, process optimization, and the integration of data-driven approaches within Project Production Management (PPM) frameworks.
+
+His most recent work on computer vision–based monitoring of construction phases was accepted at the International Conference on Computing in Civil Engineering (i3CE 2026).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
